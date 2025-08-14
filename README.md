@@ -1,14 +1,14 @@
 # One-day Workshop on Formalising Mathematics in Lean
 
 This is the repository for the one-day workshop on Formalising Mathematics in Lean
-as part of the Summer School on Geometry held at Utrecht University on the 15th of August, 2025.
+as part of the Summer School on Geometry held at Utrecht University on August 15, 2025.
 It contains the course material, including lectures, exercises and project sketches.
 
 ## Before the workshop
 
 To get started with Lean, we recommend to play a few worlds of the
-[Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4). This will introduce you some basic concepts
-of a proof assistant.
+[Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4). This will introduce you to
+some basic concepts of a proof assistant.
 
 ## Online Lean usage
 
