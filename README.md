@@ -41,3 +41,20 @@ After selecting a path where the project should be installed on your computer, w
 for everything to download and compile.
 
 You will find the course material in the `UuGeometry2025` directory.
+
+## Useful links
+
+### Searching the library
+
+Finding the right lemmas to use is hard. These websites can help you find what you need:
+
+- [mathlib documentation](https://leanprover-community.github.io/mathlib4_docs/): mathlib library
+  documentation.
+- [Loogle](https://loogle.lean-lang.org/): Syntactic library search.
+- [leansearch](https://leansearch.net/): LLM-powered semantic library search.
+
+### Connecting with the community
+
+- [Zulip chat](https://leanprover.zulipchat.com/): A discussion forum for Lean users. If you have any
+  questions about Lean, feel free to ask them there.
+- [Loki](https://formal-methods.nl/loki): Weekly formalisation meetup in Utrecht.
